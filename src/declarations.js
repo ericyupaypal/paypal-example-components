@@ -1,5 +1,5 @@
 /* @flow */
 
-import type { ExamplePayGlobalType } from './types';
+import type { LegalGlobalType } from './types';
 
-declare var __example_pay__ : ExamplePayGlobalType;
+declare var __legal__ : LegalGlobalType;

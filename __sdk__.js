@@ -3,9 +3,9 @@
 
 module.exports = {
 
-    'example-pay': {
+    'legal': {
         entry: './src/component',
         
-        staticNamespace: '__example_pay__'
+        staticNamespace: '__legal__'
     }
 };

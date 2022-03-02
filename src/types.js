@@ -1,10 +1,10 @@
 /* @flow */
 
-export type ExamplePayServerConfigType = {|
+export type LegalServerConfigType = {|
     assetsUrl : string
 |};
 
-export type ExamplePayGlobalType = {|
-    serverConfig : ExamplePayServerConfigType
+export type LegalGlobalType = {|
+    serverConfig : LegalServerConfigType
 |};
 

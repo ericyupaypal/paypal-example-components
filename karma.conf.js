@@ -4,9 +4,9 @@
 import { getKarmaConfig } from 'grumbler-scripts/config/karma.conf';
 import { getWebpackConfig } from 'grumbler-scripts/config/webpack.config';
 
-import type { ExamplePayGlobalType } from './src/types';
+import type { LegalGlobalType } from './src/types';
 
-const examplePayGlobal : ExamplePayGlobalType = {
+const LegalGlobal : LegalGlobalType = {
     serverConfig: {
         assetsUrl: 'https://paypal.com/assets/'
     }

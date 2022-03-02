@@ -30,11 +30,12 @@
   },
   "homepage": "https://github.com/paypal/paypal-braintree-example-component#readme",
   "devDependencies": {
-    "flow-bin": "^0.70.0",
+    "flow-bin": "0.135.0",
     "grumbler-scripts": "^3",
     "mocha": "^4"
   },
   "dependencies": {
-    "@paypal/sdk-client": "^4.0.1"
+    "@paypal/sdk-client": "^4.0.1",
+    "@paypal/sdk-constants": "^1"
   }
 }
